@@ -14,14 +14,14 @@ fun main() {
 tailrec fun gcd(num1: Long, num2: Long): Long = if (num1 == 0L) num2 else gcd(num2 % num1, num1)
 
 fun primeDivision(num: Long): MutableMap<Long, Int> {
-  val div = mutableMapOf<Long, Int>()
+  val baseToExpMap = mutableMapOf<Long, Int>()
   var tmp = num
   (2 .. Math.sqrt(num.toDouble()).toLong()).forEach { i ->
     while (tmp % i == 0L) {
-      div[i] = (div[i] ?: 0) + 1
+      baseToExpMap[i] = (baseToExpMap[i] ?: 0) + 1
       tmp /= i
     }
   }
-  if (tmp > 1) div[tmp] = (div[tmp] ?: 0) + 1
-  return div
+  if (tmp > 1) baseToExpMap[tmp] = (baseToExpMap[tmp] ?: 0) + 1
+  return baseToExpMap
 }
