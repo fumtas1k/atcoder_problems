@@ -17,3 +17,5 @@
 | 16 | [D - Line++](https://atcoder.jp/contests/abc160/tasks/abc160_d) | | | [kotlin](hard/kotlin/abc160_d.kt) |
 | 17 | [C - AB Substrings](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c) | | | [kotlin](hard/kotlin/diverta2019_c.kt) |
 | 18 | [C - Back and Forth](https://atcoder.jp/contests/abc051/tasks/abc051_c) | | | [ruby](hard/ruby/abc051_c.rb) |
+| 19 | [D - Grid Coloring](https://atcoder.jp/contests/abc069/tasks/arc080_b) | | | [ruby](hard/ruby/arc080_b.rb) |
+| 20 | [C - ID](https://atcoder.jp/contests/abc113/tasks/abc113_c) | | | [ruby](hard/ruby/abc113_c.rb) |
