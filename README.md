@@ -15,3 +15,5 @@
 | 14 | [C - Digits in Multiplication](https://atcoder.jp/contests/abc057/tasks/abc057_c) | | | [kotlin](hard/kotlin/abc057_c.kt) |
 | 15 | [D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d) | | | [kotlin](hard/kotlin/abc125_d.kt) |
 | 16 | [D - Line++](https://atcoder.jp/contests/abc160/tasks/abc160_d) | | | [kotlin](hard/kotlin/abc160_d.kt) |
+| 17 | [C - AB Substrings](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c) | | | [kotlin](hard/kotlin/diverta2019_c.kt) |
+| 18 | [C - Back and Forth](https://atcoder.jp/contests/abc051/tasks/abc051_c) | | | [ruby](hard/ruby/abc051_c.rb) |
