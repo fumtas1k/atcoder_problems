@@ -19,3 +19,4 @@
 | 18 | [C - Back and Forth](https://atcoder.jp/contests/abc051/tasks/abc051_c) | | | [ruby](hard/ruby/abc051_c.rb) |
 | 19 | [D - Grid Coloring](https://atcoder.jp/contests/abc069/tasks/arc080_b) | | | [ruby](hard/ruby/arc080_b.rb) |
 | 20 | [C - ID](https://atcoder.jp/contests/abc113/tasks/abc113_c) | | | [ruby](hard/ruby/abc113_c.rb) |
+| 21 | [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b) | 組み合わせの性質 | | [ruby](hard/ruby/arc095_b.rb) |
