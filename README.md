@@ -21,6 +21,7 @@
 | 20 | [C - ID](https://atcoder.jp/contests/abc113/tasks/abc113_c) | | | [ruby](hard/ruby/abc113_c.rb) |
 | 21 | [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b) | 組み合わせの性質 | | [ruby](hard/ruby/arc095_b.rb) |
 | 22 | [C - String Transformation](https://atcoder.jp/contests/abc110/tasks/abc110_c) | | | [ruby](hard/ruby/abc110_c.rb) |
+| 23 | [C - 白昼夢](https://atcoder.jp/contests/abc049/tasks/arc065_a) | 後ろからマッチ | | [ruby](hard/ruby/arc065_a.rb) |
 | 24 | [B - Robot Arms](https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b) | 貪欲法 | | [ruby](hard/ruby/keyence2020_b.rb) |
 | 25 | [C - Special Trains](https://atcoder.jp/contests/abc084/tasks/abc084_c) | 二分探索法 | | [ruby](hard/ruby/abc084_c.rb) |
 | 26 | [B - K個のケーキ](https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_b) | | | [ruby](hard/ruby/codefestival_2016_qualC_b.rb) |
