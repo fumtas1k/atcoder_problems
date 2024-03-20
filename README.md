@@ -22,3 +22,4 @@
 | 21 | [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b) | 組み合わせの性質 | | [ruby](hard/ruby/arc095_b.rb) |
 | 22 | [C - String Transformation](https://atcoder.jp/contests/abc110/tasks/abc110_c) | | | [ruby](hard/ruby/abc110_c.rb) |
 | 24 | [B - Robot Arms](https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b) | 貪欲法 | | [ruby](hard/ruby/keyence2020_b.rb) |
+| 25 | [C - Special Trains](https://atcoder.jp/contests/abc084/tasks/abc084_c) | 二分探索法 | | [ruby](hard/ruby/abc084_c.rb) |
