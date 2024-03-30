@@ -27,3 +27,4 @@
 | 26 | [B - K個のケーキ](https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_b) | | | [ruby](hard/ruby/codefestival_2016_qualC_b.rb) |
 | 27 | [D - Ki](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](hard/ruby/abc138_d.rb) |
 | 28 | [C - Candles](https://atcoder.jp/contests/abc107/tasks/arc101_a) |  | | [ruby](hard/ruby/abc107_c.rb) |
+| 29 | [B - Colorful Creatures](https://atcoder.jp/contests/agc011/tasks/agc011_b) |  | | [ruby](hard/ruby/agc011_b.rb) |
