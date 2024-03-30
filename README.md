@@ -26,3 +26,4 @@
 | 25 | [C - Special Trains](https://atcoder.jp/contests/abc084/tasks/abc084_c) | 二分探索法 | | [ruby](hard/ruby/abc084_c.rb) |
 | 26 | [B - K個のケーキ](https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_b) | | | [ruby](hard/ruby/codefestival_2016_qualC_b.rb) |
 | 27 | [D - Ki](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](hard/ruby/abc138_d.rb) |
+| 28 | [C - Candles](https://atcoder.jp/contests/abc107/tasks/arc101_a) |  | | [ruby](hard/ruby/abc107_c.rb) |
