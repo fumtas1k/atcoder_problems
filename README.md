@@ -29,6 +29,7 @@
 | 28 | [C - Candles](https://atcoder.jp/contests/abc107/tasks/arc101_a) |  | | [ruby](hard/ruby/abc107_c.rb) |
 | 29 | [B - Colorful Creatures](https://atcoder.jp/contests/agc011/tasks/agc011_b) |  | | [ruby](hard/ruby/agc011_b.rb) |
 | 30 | [A - Getting Difference](https://atcoder.jp/contests/agc018/tasks/agc018_a) | 最大公約数 | | [ruby](hard/ruby/agc018_a.rb) |
+| 31 | [D - Preparing Boxes](https://atcoder.jp/contests/abc134/tasks/abc134_d) | 排他論理和 | | [ruby](hard/ruby/abc134_d.rb) |
 | 32 | [C - Factors of Factorial](https://atcoder.jp/contests/arc067/tasks/arc067_a) | 約数, 素数, 組み合わせ | | [ruby](hard/ruby/arc067_a.rb) |
 | 33 | [D - Rain Flows into Dams](https://atcoder.jp/contests/abc133/tasks/abc133_d) | 周期性, 決め打ち | | [ruby](hard/ruby/abc133_d.rb) |
 | 34 | [C - Lining Up](https://atcoder.jp/contests/arc066/tasks/arc066_a) | 周期性 | | [ruby](hard/ruby/arc066_a.rb) |
