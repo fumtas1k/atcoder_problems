@@ -35,4 +35,5 @@
 | 34 | [C - Lining Up](https://atcoder.jp/contests/arc066/tasks/arc066_a) | 周期性 | | [ruby](hard/ruby/arc066_a.rb) |
 | 35 | [D - Katana Thrower](https://atcoder.jp/contests/abc085/tasks/abc085_d) | 貪欲法 | | [ruby](hard/ruby/abc085_d.rb) |
 | 36 | [A - Triangle](https://atcoder.jp/contests/agc036/tasks/agc036_a) | 三角形の面積(内積), 固定 | | [ruby](hard/ruby/agc036_a.rb) |
-| 37 | [C - Strawberry Cakes](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_c) | 埋める | | [ruby1](hard/ruby/ddcc2020_qual_c_1.rb),[ruby2](hard/ruby/ddcc2020_qual_c_2.rb) |
+| 37 | [C - Strawberry Cakes](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_c) | 埋める | | [ruby](hard/ruby/ddcc2020_qual_c.rb) |
+| 38 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | 幅優先探索 | | [ruby](hard/ruby/abc151_d.rb) |
