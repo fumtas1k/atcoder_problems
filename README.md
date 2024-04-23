@@ -37,3 +37,4 @@
 | 36 | [A - Triangle](https://atcoder.jp/contests/agc036/tasks/agc036_a) | 三角形の面積(内積), 固定 | | [ruby](hard/ruby/agc036_a.rb) |
 | 37 | [C - Strawberry Cakes](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_c) | 埋める | | [ruby](hard/ruby/ddcc2020_qual_c.rb) |
 | 38 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | 幅優先探索 | | [ruby](hard/ruby/abc151_d.rb) |
+| 39 | [C - Stones](https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_c) | 動的計画法 | | [ruby](hard/ruby/tenka1_2019_c.rb) |
