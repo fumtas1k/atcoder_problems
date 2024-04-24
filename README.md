@@ -39,3 +39,4 @@
 | 38 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | 幅優先探索 | | [ruby](hard/ruby/abc151_d.rb) |
 | 39 | [C - Stones](https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_c) | 動的計画法 | | [ruby](hard/ruby/tenka1_2019_c.rb) |
 | 40 | [C - Inserting 'x'](https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code_festival_2017_qualc_c) | | | [ruby](hard/ruby/code_festival_2017_qualc_c.rb) |
+| 41 | [C - Triangular Relationshi](https://atcoder.jp/contests/abc108/tasks/arc102_a) | MOD | | [ruby](hard/ruby/arc102_c.rb) |
