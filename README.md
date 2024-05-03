@@ -40,4 +40,6 @@
 | 39 | [C - Stones](https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_c) | 動的計画法 | | [ruby](hard/ruby/tenka1_2019_c.rb) |
 | 40 | [C - Inserting 'x'](https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code_festival_2017_qualc_c) | | | [ruby](hard/ruby/code_festival_2017_qualc_c.rb) |
 | 41 | [C - Triangular Relationshi](https://atcoder.jp/contests/abc108/tasks/arc102_a) | MOD | | [ruby](hard/ruby/arc102_c.rb) |
-| 41 | [D - Insertion](https://atcoder.jp/contests/abc064/tasks/abc064_d) | スタック、キュー | | [ruby](hard/ruby/abc064_d.rb) |
+| 42 | [D - Insertion](https://atcoder.jp/contests/abc064/tasks/abc064_d) | スタック、キュー | | [ruby](hard/ruby/abc064_d.rb) |
+| 43 | [D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d) | Warshall Floyd | | [ruby](hard/ruby/abc079_d.rb) |
+| 44 | [C - HonestOrUnkind2](https://atcoder.jp/contests/abc147/tasks/abc147_c) | BIT全探索 | | [ruby](hard/ruby/abc147_c.rb) |
