@@ -44,3 +44,5 @@
 | 43 | [D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d) | Warshall Floyd | | [ruby](hard/ruby/abc079_d.rb) |
 | 44 | [C - HonestOrUnkind2](https://atcoder.jp/contests/abc147/tasks/abc147_c) | BIT全探索 | | [ruby](hard/ruby/abc147_c.rb) |
 | 45 | [D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d) | 素数 | | [ruby](hard/ruby/abc084_d.rb) |
+| 46 | [A - STring](https://atcoder.jp/contests/agc005/tasks/agc005_a) | スタック | | [ruby](hard/ruby/agc005_a.rb) |
+| 47 | [D - Lunlun Number](https://atcoder.jp/contests/abc161/tasks/abc161_d) | キュー | | [ruby](hard/ruby/agc161_d.rb) |
