@@ -46,3 +46,4 @@
 | 45 | [D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d) | 素数 | | [ruby](hard/ruby/abc084_d.rb) |
 | 46 | [A - STring](https://atcoder.jp/contests/agc005/tasks/agc005_a) | スタック | | [ruby](hard/ruby/agc005_a.rb) |
 | 47 | [D - Lunlun Number](https://atcoder.jp/contests/abc161/tasks/abc161_d) | キュー | | [ruby](hard/ruby/agc161_d.rb) |
+| 48 | [E - Crested Ibis vs Monster](https://atcoder.jp/contests/abc153/tasks/abc153_e) | 動的計画法 | | [ruby](hard/ruby/abc153_e.rb) |
