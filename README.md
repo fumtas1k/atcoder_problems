@@ -48,4 +48,6 @@
 | 47 | [D - Lunlun Number](https://atcoder.jp/contests/abc161/tasks/abc161_d) | キュー | | [ruby](hard/ruby/agc161_d.rb) |
 | 48 | [E - Crested Ibis vs Monster](https://atcoder.jp/contests/abc153/tasks/abc153_e) | 動的計画法 | | [ruby](hard/ruby/abc153_e.rb) |
 | 49 | [D - Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d) | 動的計画法 | | [ruby](hard/ruby/abc156_d.rb) |
+| 50 | [D - Grid Repainting](https://atcoder.jp/contests/abc088/tasks/abc088_d) | 幅優先探索 | | [ruby](hard/ruby/abc088_d.rb) |
+| 51 | [D - Knight](https://atcoder.jp/contests/abc145/tasks/abc145_d) | 逆元 | | [ruby](hard/ruby/abc145_d.rb) |
 | 52 | [D - Partition](https://atcoder.jp/contests/abc112/tasks/abc112_d) | | | [ruby](hard/ruby/abc112_d.rb) |
