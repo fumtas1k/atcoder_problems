@@ -53,3 +53,4 @@
 | 52 | [D - Partition](https://atcoder.jp/contests/abc112/tasks/abc112_d) | | | [ruby](hard/ruby/abc112_d.rb) |
 | 53 | [B - Picking Up](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_b) | | | [ruby](hard/ruby/diverta2019_2_b.rb) |
 | 54 | [E - Red and Green Apples](https://atcoder.jp/contests/abc160/tasks/abc160_e) | 貪欲法 | | [ruby](hard/ruby/abc160_e.rb) |
+| 55 | [D - Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b) | 動的計画法 | | [ruby](hard/ruby/abc052_d.rb) |
