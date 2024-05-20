@@ -55,3 +55,4 @@
 | 54 | [E - Red and Green Apples](https://atcoder.jp/contests/abc160/tasks/abc160_e) | 貪欲法 | | [ruby](hard/ruby/abc160_e.rb) |
 | 55 | [D - Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b) | 動的計画法 | | [ruby](hard/ruby/abc052_d.rb) |
 | 56 | [B - Two Arrays](https://atcoder.jp/contests/apc001/tasks/apc001_b) | | | [ruby](hard/ruby/apc001_b.rb) |
+| 57 | [A - Zero-Sum Ranges](https://atcoder.jp/contests/agc023/tasks/agc023_a) | 累積和 | | [ruby](hard/ruby/agc023_a.rb) |
