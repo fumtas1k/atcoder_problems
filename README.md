@@ -56,3 +56,4 @@
 | 55 | [D - Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b) | 動的計画法 | | [ruby](hard/ruby/abc052_d.rb) |
 | 56 | [B - Two Arrays](https://atcoder.jp/contests/apc001/tasks/apc001_b) | | | [ruby](hard/ruby/apc001_b.rb) |
 | 57 | [A - Zero-Sum Ranges](https://atcoder.jp/contests/agc023/tasks/agc023_a) | 累積和 | | [ruby](hard/ruby/agc023_a.rb) |
+| 58 | [D - DivRem Number](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_d) | 約数 | | [ruby](hard/ruby/diverta2019_d.rb) |
