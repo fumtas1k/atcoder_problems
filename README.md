@@ -57,3 +57,4 @@
 | 56 | [B - Two Arrays](https://atcoder.jp/contests/apc001/tasks/apc001_b) | | | [ruby](hard/ruby/apc001_b.rb) |
 | 57 | [A - Zero-Sum Ranges](https://atcoder.jp/contests/agc023/tasks/agc023_a) | 累積和 | | [ruby](hard/ruby/agc023_a.rb) |
 | 58 | [D - DivRem Number](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_d) | 約数 | | [ruby](hard/ruby/diverta2019_d.rb) |
+| 59 | [C - 755](https://atcoder.jp/contests/abc114/tasks/abc114_c) | 全探索, 深さ優先探索 | | [ruby](hard/ruby/abc114_c.rb) |
