@@ -59,4 +59,4 @@
 | 58 | [D - DivRem Number](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_d) | 約数 | | [ruby](hard/ruby/diverta2019_d.rb) |
 | 59 | [C - 755](https://atcoder.jp/contests/abc114/tasks/abc114_c) | 全探索, 深さ優先探索 | | [ruby](hard/ruby/abc114_c.rb) |
 | 60 | [D - Handstand 2](https://atcoder.jp/contests/abc152/tasks/abc152_d) | 全探索, 動的計画法 | | [ruby](hard/ruby/abc152_d.rb) |
-| 61 | [C - 次のアルファベット](https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c) | 貪欲法 | | [ruby](hard/ruby/codefestival_2016_qualA_c.rb) |
+| 61 | [C - Next Letter](https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c) | 貪欲法 | | [ruby](hard/ruby/codefestival_2016_qualA_c.rb) |
