@@ -62,3 +62,5 @@
 | 61 | [C - Next Letter](https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c) | 貪欲法 | | [ruby](hard/ruby/codefestival_2016_qualA_c.rb) |
 | 63 | [C. Iroha's Obsession](https://atcoder.jp/contests/arc058/tasks/arc058_a) | | | [ruby](hard/ruby/arc058_a.rb) |
 | 64 | [C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Low Link, 二重辺連結成分分解 | | [ruby](hard/ruby/abc075_c.rb) |
+| 65 | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | | | [ruby](hard/ruby/abc053_d.rb) |
+| 66 | [B - ABC](https://atcoder.jp/contests/agc034/tasks/agc034_b) | | | [ruby](hard/ruby/abc034_b.rb) |
