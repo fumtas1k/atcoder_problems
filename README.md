@@ -63,4 +63,5 @@
 | 63 | [C. Iroha's Obsession](https://atcoder.jp/contests/arc058/tasks/arc058_a) | | | [ruby](hard/ruby/arc058_a.rb) |
 | 64 | [C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Low Link, 二重辺連結成分分解 | | [ruby](hard/ruby/abc075_c.rb) |
 | 65 | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | | | [ruby](hard/ruby/abc053_d.rb) |
-| 66 | [B - ABC](https://atcoder.jp/contests/agc034/tasks/agc034_b) | | | [ruby](hard/ruby/abc034_b.rb) |
+| 66 | [B - ABC](https://atcoder.jp/contests/agc034/tasks/agc034_b) | 転倒数 | | [ruby](hard/ruby/abc034_b.rb) |
+| 67 | [D - Christmas](https://atcoder.jp/contests/abc115/tasks/abc115_d) | 深さ優先探索 | | [ruby](hard/ruby/abc115_d.rb) |
