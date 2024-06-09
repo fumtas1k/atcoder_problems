@@ -65,3 +65,5 @@
 | 65 | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | | | [ruby](hard/ruby/abc053_d.rb) |
 | 66 | [B - ABC](https://atcoder.jp/contests/agc034/tasks/agc034_b) | 転倒数 | | [ruby](hard/ruby/abc034_b.rb) |
 | 67 | [D - Christmas](https://atcoder.jp/contests/abc115/tasks/abc115_d) | 深さ優先探索 | | [ruby](hard/ruby/abc115_d.rb) |
+| 68 | [D - String Equivalence](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_d) | 深さ優先探索 | | [ruby](hard/ruby/panasonic2020_d.rb) |
+| 69 | [C - Align](https://atcoder.jp/contests/tenka1-2018/tasks/tenka1_2018_c) | パターンの考察 | | [ruby](hard/ruby/tenka1_2018_c.rb) |
