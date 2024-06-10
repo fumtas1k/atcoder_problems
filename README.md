@@ -67,3 +67,4 @@
 | 67 | [D - Christmas](https://atcoder.jp/contests/abc115/tasks/abc115_d) | 深さ優先探索 | | [ruby](hard/ruby/abc115_d.rb) |
 | 68 | [D - String Equivalence](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_d) | 深さ優先探索 | | [ruby](hard/ruby/panasonic2020_d.rb) |
 | 69 | [C - Align](https://atcoder.jp/contests/tenka1-2018/tasks/tenka1_2018_c) | パターンの考察 | | [ruby](hard/ruby/tenka1_2018_c.rb) |
+| 70 | [C - Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a) | 二分探索法, 真ん中から考える | | [ruby](hard/ruby/abc077_c.rb) |
