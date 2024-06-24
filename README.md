@@ -69,3 +69,5 @@
 | 69 | [C - Align](https://atcoder.jp/contests/tenka1-2018/tasks/tenka1_2018_c) | パターンの考察 | | [ruby](hard/ruby/tenka1_2018_c.rb) |
 | 70 | [C - Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a) | 二分探索法, 真ん中から考える | | [ruby](hard/ruby/abc077_c.rb) |
 | 71 | [C - Linear Approximation](https://atcoder.jp/contests/abc102/tasks/arc100_a) | 差の絶対値の総和は中央値を使う | | [ruby](hard/ruby/abc102_c.rb) |
+| 72 | [C - 4/N](https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_c) |  | | [ruby](hard/ruby/tenka1_2017_c.rb) |
+| 73 | [C - Strange Bank](https://atcoder.jp/contests/abc099/tasks/abc099_c) | 動的計画法 | | [ruby](hard/ruby/abc099_c.rb) |
