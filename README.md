@@ -72,3 +72,4 @@
 | 72 | [C - 4/N](https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_c) |  | | [ruby](hard/ruby/tenka1_2017_c.rb) |
 | 73 | [C - Strange Bank](https://atcoder.jp/contests/abc099/tasks/abc099_c) | 動的計画法 | | [ruby](hard/ruby/abc099_c.rb) |
 | 74 | [D - Harlequin](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_b) | ゲーム | | [ruby](hard/ruby/caddi2018b_d.rb) |
+| 75 | [D - Face Produces Unhappiness](https://atcoder.jp/contests/abc140/tasks/abc140_d) | ランレングス圧縮, 変化点は2箇所 | | [ruby](hard/ruby/abc140_d.rb) |
