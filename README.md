@@ -74,3 +74,5 @@
 | 74 | [D - Harlequin](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_b) | ゲーム | | [ruby](hard/ruby/caddi2018b_d.rb) |
 | 75 | [D - Face Produces Unhappiness](https://atcoder.jp/contests/abc140/tasks/abc140_d) | ランレングス圧縮, 変化点は2箇所 | | [ruby](hard/ruby/abc140_d.rb) |
 | 76 | [C. Many Formulas](https://atcoder.jp/contests/abc045/tasks/arc061_a) | ビット全探索 | | [ruby](hard/ruby/abc045_c.rb) |
+| 77 | [A - 01 Matrix](https://atcoder.jp/contests/agc038/tasks/agc038_a) | 数学的考察 | | [ruby](hard/ruby/agc038_a.rb) |
+| 78 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | 辞書順 | | [ruby](hard/ruby/abc097_c.rb) |
