@@ -76,3 +76,4 @@
 | 76 | [C. Many Formulas](https://atcoder.jp/contests/abc045/tasks/arc061_a) | ビット全探索 | | [ruby](hard/ruby/abc045_c.rb) |
 | 77 | [A - 01 Matrix](https://atcoder.jp/contests/agc038/tasks/agc038_a) | 数学的考察 | | [ruby](hard/ruby/agc038_a.rb) |
 | 78 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | 辞書順 | | [ruby](hard/ruby/abc097_c.rb) |
+| 79 | [D - Handstand](https://atcoder.jp/contests/abc124/tasks/abc124_d) | 尺取法, 累積和 | | [ruby](hard/ruby/abc124_d.rb) |
