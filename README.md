@@ -78,3 +78,5 @@
 | 78 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | 辞書順 | | [ruby](hard/ruby/abc097_c.rb) |
 | 79 | [D - Handstand](https://atcoder.jp/contests/abc124/tasks/abc124_d) | 尺取法, 累積和 | | [ruby](hard/ruby/abc124_d.rb) |
 | 80 | [D - Remainder Reminder](https://atcoder.jp/contests/abc090/tasks/arc091_b) | | | [ruby](hard/ruby/abc090_d.rb) |
+| 81 | [C - Boxes and Candies](https://atcoder.jp/contests/abc048/tasks/arc064_a) | 貪欲法 | | [ruby](hard/ruby/abc048_c.rb) |
+| 82 | [C - Different Strokes](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c) | 貪欲法 | | [ruby](hard/ruby/nikkei2019-qual_c.rb) |
