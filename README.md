@@ -82,3 +82,4 @@
 | 82 | [C - Different Strokes](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c) | 貪欲法 | | [ruby](hard/ruby/nikkei2019-qual_c.rb) |
 | 83 | [A - Darker and Darker](https://atcoder.jp/contests/agc033/tasks/agc033_a) | 幅優先探索 | | [ruby](hard/ruby/agc033_a.rb) |
 | 84 | [C - Shopping Street](https://atcoder.jp/contests/abc080/tasks/abc080_c) | BIT全探索 | | [ruby](hard/ruby/abc080_c.rb) |
+| 85 | [C - Pyramid](https://atcoder.jp/contests/abc112/tasks/abc112_c) | BIT全探索 | | [ruby](hard/ruby/abc112_c.rb) |
