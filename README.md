@@ -85,3 +85,5 @@
 | 85 | [C - Pyramid](https://atcoder.jp/contests/abc112/tasks/abc112_c) | 全探索 | | [ruby](hard/ruby/abc112_c.rb) |
 | 86 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | パターン列挙 | | [ruby](hard/ruby/abc071_d.rb) |
 | 87 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | Union Find | | [ruby](hard/ruby/abc157_d.rb) |
+| 88 | [D - XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d) | XOR | | [ruby](hard/ruby/abc121_d.rb) |
+| 89 | [E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e) | DP | | [ruby](hard/ruby/sumitb2019_e.rb) |
