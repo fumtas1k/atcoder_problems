@@ -84,3 +84,4 @@
 | 84 | [C - Shopping Street](https://atcoder.jp/contests/abc080/tasks/abc080_c) | BIT全探索 | | [ruby](hard/ruby/abc080_c.rb) |
 | 85 | [C - Pyramid](https://atcoder.jp/contests/abc112/tasks/abc112_c) | 全探索 | | [ruby](hard/ruby/abc112_c.rb) |
 | 86 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | パターン列挙 | | [ruby](hard/ruby/abc071_d.rb) |
+| 87 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | Union Find | | [ruby](hard/ruby/abc157_d.rb) |
