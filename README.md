@@ -89,3 +89,5 @@
 | 89 | [E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e) | DP | | [ruby](hard/ruby/sumitb2019_e.rb) |
 | 90 | [D - Even Relation](https://atcoder.jp/contests/abc126/tasks/abc126_d) | 法則性, DP, 偶奇 | | [ruby](hard/ruby/abc126_d.rb) |
 | 91 | [D - Coloring Edges on Tree](https://atcoder.jp/contests/abc146/tasks/abc146_d) | 深さ優先探索, MEX | | [ruby](hard/ruby/abc146_d.rb) |
+| 92 | [B - Unplanned Queries](https://atcoder.jp/contests/agc014/tasks/agc014_b) | 木 | | [ruby](hard/ruby/agc014_b.rb) |
+| 93 | [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d) | ダイクストラ法 | | [ruby](hard/ruby/abc070_d.rb) |
