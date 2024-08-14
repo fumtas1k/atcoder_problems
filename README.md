@@ -91,3 +91,4 @@
 | 91 | [D - Coloring Edges on Tree](https://atcoder.jp/contests/abc146/tasks/abc146_d) | 深さ優先探索, MEX | | [ruby](hard/ruby/abc146_d.rb) |
 | 92 | [B - Unplanned Queries](https://atcoder.jp/contests/agc014/tasks/agc014_b) | 木 | | [ruby](hard/ruby/agc014_b.rb) |
 | 93 | [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d) | ダイクストラ法 | | [ruby](hard/ruby/abc070_d.rb) |
+| 94 | [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc0132_d.rb) |
