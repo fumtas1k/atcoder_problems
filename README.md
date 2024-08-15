@@ -94,3 +94,4 @@
 | 94 | [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc0132_d.rb) |
 | 95 | [D - Xor Sum 4](https://atcoder.jp/contests/abc147/tasks/abc147_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc147_d.rb) |
 | 96 | [D - Make Them Even](https://atcoder.jp/contests/abc109/tasks/abc109_d) | 力技 | | [ruby](hard/ruby/abc109_d.rb) |
+| 97 | [C - Base -2 Number](https://atcoder.jp/contests/abc105/tasks/abc105_c) | 2新数 | | [ruby](hard/ruby/abc105_c.rb) |
