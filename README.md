@@ -92,4 +92,5 @@
 | 92 | [B - Unplanned Queries](https://atcoder.jp/contests/agc014/tasks/agc014_b) | 木 | | [ruby](hard/ruby/agc014_b.rb) |
 | 93 | [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d) | ダイクストラ法 | | [ruby](hard/ruby/abc070_d.rb) |
 | 94 | [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc0132_d.rb) |
-| 95 | [D - Xor Sum 4](https://atcoder.jp/contests/abc147/tasks/abc147_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc0147_d.rb) |
+| 95 | [D - Xor Sum 4](https://atcoder.jp/contests/abc147/tasks/abc147_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc147_d.rb) |
+| 96 | [D - Make Them Even](https://atcoder.jp/contests/abc109/tasks/abc109_d) | 力技 | | [ruby](hard/ruby/abc109_d.rb) |
