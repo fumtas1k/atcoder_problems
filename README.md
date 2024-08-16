@@ -95,3 +95,5 @@
 | 95 | [D - Xor Sum 4](https://atcoder.jp/contests/abc147/tasks/abc147_d) | フェルマーの小定理, 組み合わせ | | [ruby](hard/ruby/abc147_d.rb) |
 | 96 | [D - Make Them Even](https://atcoder.jp/contests/abc109/tasks/abc109_d) | 力技 | | [ruby](hard/ruby/abc109_d.rb) |
 | 97 | [C - Base -2 Number](https://atcoder.jp/contests/abc105/tasks/abc105_c) | 2新数 | | [ruby](hard/ruby/abc105_c.rb) |
+| 98 | [C - Palindromic Matrix](https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_c) | 法則性 | | [ruby](hard/ruby/code-festival-2017-quala_c.rb) |
+| 99 | [B - Simplified mahjong](https://atcoder.jp/contests/agc003/tasks/agc003_b) | 貪欲法 | | [ruby](hard/ruby/agc003_b.rb) |
