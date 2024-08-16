@@ -5,6 +5,7 @@
 | No | contest/problem | category | remark | ans |
 |----|-----------------|----------|--------|-----|
 | 1 | [D. Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | パリティ(偶奇性) | | [ruby](hard/ruby/abc136_d.rb), [kotlin](hard/kotlin/abc136_d.kt) |
+| 2 | [B - Kleene Inversion](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_b) | 転倒数, 繰り返し | | [ruby](hard/ruby/jsc2019_qual_b.rb) |
 | 7 | [D - Integer Cards](https://atcoder.jp/contests/abc127/tasks/abc127_d) | 貪欲法 | | [ruby](hard/ruby/abc127_d.rb), [kotlin](hard/kotlin/abc127_d.kt) |
 | 8 | [E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e) | | | [ruby](hard/ruby/abc148_e.rb) |
 | 9 | [B - Template Matchin](https://atcoder.jp/contests/abc054/tasks/abc054_b) | | | [ruby](hard/ruby/abc054_b.rb) |
