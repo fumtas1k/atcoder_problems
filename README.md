@@ -65,6 +65,7 @@
 | 59 | [C - 755](https://atcoder.jp/contests/abc114/tasks/abc114_c) | 全探索, 深さ優先探索 | | [ruby](hard/ruby/abc114_c.rb) |
 | 60 | [D - Handstand 2](https://atcoder.jp/contests/abc152/tasks/abc152_d) | 全探索, 動的計画法 | | [ruby](hard/ruby/abc152_d.rb) |
 | 61 | [C - Next Letter](https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c) | 貪欲法 | | [ruby](hard/ruby/codefestival_2016_qualA_c.rb) |
+| 62 | [D - Lamp](https://atcoder.jp/contests/abc129/tasks/abc129_d) | bytes | | [ruby](hard/ruby/abc129_d.rb) |
 | 63 | [C. Iroha's Obsession](https://atcoder.jp/contests/arc058/tasks/arc058_a) | | | [ruby](hard/ruby/arc058_a.rb) |
 | 64 | [C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Low Link, 二重辺連結成分分解 | | [ruby](hard/ruby/abc075_c.rb) |
 | 65 | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | | | [ruby](hard/ruby/abc053_d.rb) |
